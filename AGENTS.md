@@ -12,4 +12,9 @@ Follow a dynamic workflow based on task requirements.
 - Execute only necessary phases.
 - Skip phases when their objectives are already satisfied.
 - Revisit earlier phases when necessary.
-- Verify outcomes using objective evidence.v O
+- Verify outcomes using objective evidence.
+- Proceed to another phase only when the user asks.
+
+### Working documents
+Keep working documents under `.goal/<goal>/` in the current working directory.
+Reuse the goal folder name agreed with the user; if the target is unclear, confirm it first.
